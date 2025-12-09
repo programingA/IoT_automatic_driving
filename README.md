@@ -1,4 +1,3 @@
----
 #📘 **README.md — Jetson + Arduino 기반 자율주행 미니카 프로젝트**
 
 > **YOLO 신호등 인식 + 차선 인식 + 초음파 장애물 감지 + 서보 제어 + Jetson–Arduino 양방향 통신 시스템**
