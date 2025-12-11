@@ -250,12 +250,6 @@ Tools → Board → Arduino UNO
 Tools → Port → /dev/ttyACM0
 ```
 
-## (3) 현재 사용하는 전체 Arduino 코드 그대로 업로드
-
-너에게 제공했던 **초음파 + 서보 + LED + 감속 + 통신 포함 전체 코드** 사용
-
----
-
 # 📷 카메라 장착 & 배선
 
 * USB Webcam 1개: 신호등 탐지용
